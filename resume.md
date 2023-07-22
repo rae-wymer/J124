@@ -24,15 +24,15 @@ The Daily Californian | Beat Reporter and News Editor
 ---------------|*  Edited daily news copy 
 ---------------|*  Wrote daily enterprise stories
 GATE | Freelance Journalist  
----------| *		Investigated leaky dorms 
----------| *		Took photos and interviewed students
+---------|*  Investigated leaky dorms 
+---------|*  Took photos and interviewed students
 SF Mission Local | Freelance Journalist 
-----------| *		wrote for local paper 
-----------| *		covered public education funding
+----------|*  wrote for local paper 
+----------|*  covered public education funding
 KQED | Youth Advisory Board Member
-----------| *		contributed to local youth audio journalism 
-----------| *		planned KQED Youth Takeover
+----------|*  contributed to local youth audio journalism 
+----------|*  planned KQED Youth Takeover
 The Lowell | Eidtor-In-Chief and news reporter 
-------------| *		managed staff of 45+ students 
--------------| *		wrote and edited a nationally recogaized newsmagazine 
+------------|*  managed staff of 45+ students 
+-------------|*  wrote and edited a nationally recogaized newsmagazine 
 
